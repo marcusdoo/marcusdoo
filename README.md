@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## I'm Marcus :)
+
+I'm currently into Node.js ...
+
 <!--
 **marcusdoo/marcusdoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
